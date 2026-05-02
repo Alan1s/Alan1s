@@ -1,12 +1,8 @@
-<div align="center">
+# Hi! I'm Alanis 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:e879f9,50:818cf8,100:38bdf8&height=220&section=header&text=Hi!%20I%27m%20Alanis%20%F0%9F%91%8B&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Systems%20Engineer%20%7C%20Dev%20%26%20QA%20Enthusiast%20%F0%9F%90%9B&descAlignY=58&descSize=20&animation=fadeIn)
-
-</div>
+**Systems Engineer | Dev & QA Enthusiast 🐛**
 
 ---
-
-<img align="right" alt="Coding" width="270" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 ### 🌸 About Me
 
@@ -25,8 +21,6 @@ contact: alanisforero@gmail.com
 - 🧪 Slowly turning into a **bug hunter** with Cypress
 - 🤖 Exploring **AI tools** to enhance dev and testing
 - 💡 Always curious, always learning
-
-<br clear="right"/>
 
 ---
 
@@ -66,40 +60,10 @@ contact: alanisforero@gmail.com
 <div align="center">
 
 ![stats](https://github-readme-stats.vercel.app/api?username=Alan1s&show_icons=true&count_private=true&title_color=e879f9&text_color=ffffff&icon_color=818cf8&bg_color=0d1117&hide_border=true&border_radius=10)
-&nbsp;
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alan1s&layout=compact&langs_count=8&title_color=e879f9&text_color=ffffff&icon_color=818cf8&bg_color=0d1117&hide_border=true&border_radius=10)
-
-</div>
-
-<div align="center">
 
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=Alan1s&stroke=818cf8&background=0d1117&ring=e879f9&fire=f472b6&currStreakNum=ffffff&currStreakLabel=e879f9&sideNums=ffffff&sideLabels=c4b5fd&dates=94a3b8&hide_border=true)
 
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alan1s/Alan1s/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alan1s/Alan1s/output/github-snake.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Alan1s/Alan1s/output/github-snake.svg">
-</picture>
-
-</div>
-
----
-
-### 📌 Featured Projects
-
-<div align="center">
-
-[![cypress-basics](https://github-readme-stats.vercel.app/api/pin/?username=Alan1s&repo=cypress-basics-e2e-testing&title_color=e879f9&text_color=ffffff&icon_color=818cf8&bg_color=0d1117&hide_border=true&border_radius=10)](https://github.com/Alan1s/cypress-basics-e2e-testing)
-&nbsp;
-[![AlzheimerClasification](https://github-readme-stats.vercel.app/api/pin/?username=Alan1s&repo=AlzheimerClasification&title_color=e879f9&text_color=ffffff&icon_color=818cf8&bg_color=0d1117&hide_border=true&border_radius=10)](https://github.com/Alan1s/AlzheimerClasification)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alan1s&layout=compact&langs_count=8&title_color=e879f9&text_color=ffffff&icon_color=818cf8&bg_color=0d1117&hide_border=true&border_radius=10)
 
 </div>
 
@@ -127,8 +91,6 @@ contact: alanisforero@gmail.com
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/Alan1s)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alanisforero@gmail.com)
 
-<br/>
-
 ![views](https://komarev.com/ghpvc/?username=Alan1s&color=e879f9&style=for-the-badge&label=Profile+Views)
 
 </div>
@@ -138,7 +100,5 @@ contact: alanisforero@gmail.com
 <div align="center">
 
 *"First, solve the problem. Then, write the code."* ✨
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:818cf8,100:e879f9&height=120&section=footer)
 
 </div>
