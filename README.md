@@ -59,11 +59,7 @@ contact: alanisforero@gmail.com
 
 <div align="center">
 
-![stats](https://github-readme-stats.vercel.app/api?username=Alan1s&show_icons=true&count_private=true&title_color=e879f9&text_color=ffffff&icon_color=818cf8&bg_color=0d1117&hide_border=true&border_radius=10)
-
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=Alan1s&stroke=818cf8&background=0d1117&ring=e879f9&fire=f472b6&currStreakNum=ffffff&currStreakLabel=e879f9&sideNums=ffffff&sideLabels=c4b5fd&dates=94a3b8&hide_border=true)
-
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alan1s&layout=compact&langs_count=8&title_color=e879f9&text_color=ffffff&icon_color=818cf8&bg_color=0d1117&hide_border=true&border_radius=10)
 
 </div>
 
