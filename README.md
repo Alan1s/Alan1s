@@ -69,15 +69,15 @@ contact: alanisforero@gmail.com
 
 ---
 
-### 🐶 Fun Corner
+### 🐶 Doggies
 
 <div align="center">
 
 | 🐕 Onix | 🐕 Domino |
 |:-------:|:--------:|
-| Mi co-debugger | Mi pato de goma |
-| Le ladra a los bugs | Juzga mi código en silencio |
-| Senior Software Sniffgineer | Principal Paw Architect |
+| Mi primer perrito | El chiquitin|
+| Lafrar es su hoobie fav | Juzga todo lo que hago |
+| Senior en ser el mejor | Principal ayudante de arrunchis|
 
 </div>
 
