@@ -76,7 +76,7 @@ contact: alanisforero@gmail.com
 | 🐕 Onix | 🐕 Domino |
 |:-------:|:--------:|
 | Mi primer perrito | El chiquitin|
-| Lafrar es su hoobie fav | Juzga todo lo que hago |
+| Ladrar es su hoobie fav | Juzga todo lo que hago |
 | Senior en ser el mejor | Principal ayudante de arrunchis|
 
 </div>
