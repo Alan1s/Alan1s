@@ -1,37 +1,107 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Alanis Forero
-======================================================================================================================================
+<div align="center">
 
-Systems Engineer
-----------------
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:06b6d4&height=200&section=header&text=Hi!%20I'm%20Alanis%20👋&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Systems%20Engineer%20%7C%20Dev%20%26%20QA%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
-I’m a Systems Engineer who enjoys both software development and quality assurance. I like working with technologies like JavaScript, C++, and Spring Boot, building and understanding how applications work from the inside. I’ve also been learning test automation with tools like Cypress, which sparked my interest in automation overall. Lately, I’ve been exploring Microsoft tools like Copilot to learn more about AI and how it can enhance development and testing. Always curious, always learning.
+</div>
 
-* 🌍  I'm based in Colombia
-* ✉️  You can contact me at [alanisforero@gmail.com](mailto:alanisforero@gmail.com)
-* 🧠  I'm currently learning Currently learning QA… slowly turning into a bug hunter
-* 💬  Ask me about My two best friends are my dogs, Onix and Domino 🐶
+---
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" alt="Spring Boot" title="Spring Boot" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" alt="Angular" title="Angular" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" /></a>
-</p>
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-### Socials
+### 🧑‍💻 About Me
 
-<p align="left"> <a href="https://www.github.com/Alan1s" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/alanis-nicole-forero-salas-77508aa4" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-### Badges
+```yaml
+name: Alanis Forero
+location: Colombia 🇨🇴
+role: Systems Engineer
+passion: Dev + QA + Automation
+currently_learning: QA → slowly becoming a bug hunter 🐛
+fun_fact: My best friends are Onix & Domino 🐶
+```
 
-<b>My GitHub Stats</b>
+- 🔭 I enjoy building and **understanding apps from the inside**
+- 🧪 Getting into **test automation with Cypress**
+- 🤖 Exploring **AI tools** like Microsoft Copilot
+- 💡 Always curious, always learning
+- ✉️ Reach me at **alanisforero@gmail.com**
 
-<a href="http://www.github.com/Alan1s"><img src="https://github-readme-stats.vercel.app/api?username=Alan1s&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Alan1s's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/Alan1s"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Alan1s&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### 🛠️ Tech Stack
 
-<a href="https://github.com/Alan1s" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan1s&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+**Languages**
 
-<b>Top Repositories</b>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<div width="100%" align="center"><a href="https://github.com/Alan1s/cypress-basics-e2e-testing" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Alan1s&repo=cypress-basics-e2e-testing&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Alan1s/AlzheimerClasification " align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Alan1s&repo=AlzheimerClasification &title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+**Frameworks & Tools**
 
-<br /><br /><br /><br /><br />
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 
-<div width="100%" align="center"><a href="https://github.com/Alan1s/PresentacionInformal " align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Alan1s&repo=PresentacionInformal &title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Design & Dev Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Alan1s&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=06b6d4&bg_color=0f172a&hide_border=true" />
+&nbsp;&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan1s&layout=compact&langs_count=8&title_color=0891b2&text_color=ffffff&icon_color=06b6d4&bg_color=0f172a&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alan1s&stroke=06b6d4&background=0f172a&ring=0891b2&fire=06b6d4&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=94a3b8&hide_border=true" />
+
+</div>
+
+---
+
+### 📌 Featured Projects
+
+<div align="center">
+
+[![cypress-basics](https://github-readme-stats.vercel.app/api/pin/?username=Alan1s&repo=cypress-basics-e2e-testing&title_color=0891b2&text_color=ffffff&icon_color=06b6d4&bg_color=0f172a&hide_border=true)](https://github.com/Alan1s/cypress-basics-e2e-testing)
+&nbsp;&nbsp;
+[![AlzheimerClasification](https://github-readme-stats.vercel.app/api/pin/?username=Alan1s&repo=AlzheimerClasification&title_color=0891b2&text_color=ffffff&icon_color=06b6d4&bg_color=0f172a&hide_border=true)](https://github.com/Alan1s/AlzheimerClasification)
+
+</div>
+
+---
+
+### 🌐 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alanis-nicole-forero-salas-77508aa4)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/Alan1s)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alanisforero@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:0891b2&height=100&section=footer" width="100%"/>
+
+</div>
